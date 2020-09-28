@@ -1,4 +1,4 @@
-# :construction: WIP :construction:
+# :construction: WIP/REWORK :construction:
 
 ## OpenDeclic : :link: Velo'V
 #### Projet OpenClassrooms du parcours 'Open Declic : Développeur Web Junior' : Concevez une carte interactive de location de vélos.
